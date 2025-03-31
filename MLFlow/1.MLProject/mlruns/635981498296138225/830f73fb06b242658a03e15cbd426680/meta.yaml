@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/635981498296138225/830f73fb06b242658a03e15cbd426680/artifacts
+deleted_time: 1743328756390
+end_time: null
+entry_point_name: ''
+experiment_id: '635981498296138225'
+lifecycle_stage: deleted
+run_id: 830f73fb06b242658a03e15cbd426680
+run_name: puzzled-finch-361
+run_uuid: 830f73fb06b242658a03e15cbd426680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743328117254
+status: 1
+tags: []
+user_id: HP

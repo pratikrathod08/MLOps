@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PRATIK/education/Learning/MLOps/MLFlow/2.ANN_Project/mlruns/956797326802616032/a7d8ac99ba4c4d118a52b8d49b1c5e28/artifacts
+end_time: 1743417070828
+entry_point_name: ''
+experiment_id: '956797326802616032'
+lifecycle_stage: active
+run_id: a7d8ac99ba4c4d118a52b8d49b1c5e28
+run_name: nervous-slug-865
+run_uuid: a7d8ac99ba4c4d118a52b8d49b1c5e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743417062707
+status: 3
+tags: []
+user_id: HP

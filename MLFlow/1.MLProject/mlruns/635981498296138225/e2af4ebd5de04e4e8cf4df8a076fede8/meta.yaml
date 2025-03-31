@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635981498296138225/e2af4ebd5de04e4e8cf4df8a076fede8/artifacts
+end_time: 1743323983035
+entry_point_name: ''
+experiment_id: '635981498296138225'
+lifecycle_stage: active
+run_id: e2af4ebd5de04e4e8cf4df8a076fede8
+run_name: useful-carp-182
+run_uuid: e2af4ebd5de04e4e8cf4df8a076fede8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743323982909
+status: 4
+tags: []
+user_id: HP

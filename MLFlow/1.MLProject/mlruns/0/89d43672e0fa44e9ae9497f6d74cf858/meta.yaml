@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/89d43672e0fa44e9ae9497f6d74cf858/artifacts
+end_time: 1743339814578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89d43672e0fa44e9ae9497f6d74cf858
+run_name: mercurial-conch-875
+run_uuid: 89d43672e0fa44e9ae9497f6d74cf858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743339711494
+status: 4
+tags: []
+user_id: HP
